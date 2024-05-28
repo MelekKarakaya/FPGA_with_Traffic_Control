@@ -1,0 +1,12 @@
+
+{ 
+    crc :  4034896583683989602  , 
+    ccp_crc :  0  , 
+    cmdline : " --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Traffic_TB_behav xil_defaultlib.Traffic_TB" , 
+    buildDate : "Oct 13 2023" , 
+    buildTime : "20:47:58" , 
+    linkCmd : "D:\\Xilinx\\Vivado\\2023.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/Traffic_TB_behav/xsimk.exe\"   \"xsim.dir/Traffic_TB_behav/obj/xsim_0.win64.obj\" \"xsim.dir/Traffic_TB_behav/obj/xsim_1.win64.obj\" -L\"D:\\Xilinx\\Vivado\\2023.2\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
